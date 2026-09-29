@@ -351,7 +351,7 @@
 | Sponsio | [GitHub](https://github.com/SponsioLabs/Sponsio) | [![star](https://img.shields.io/badge/star-441-f4b400?style=flat-square)](https://github.com/SponsioLabs/Sponsio) | contracts, runtime-safety, guardrails | 运行时强制执行层，在代理动作执行前用确定性契约逐项检查。 |
 | DashClaw | [GitHub](https://github.com/ucsandman/DashClaw) | [![star](https://img.shields.io/badge/star-307-f4b400?style=flat-square)](https://github.com/ucsandman/DashClaw) | approvals, policy, audit | 面向代理的治理层，可拦截高风险动作、执行策略、路由审批，并记录可审计的决策轨迹。 |
 | Tandem | [GitHub](https://github.com/frumu-ai/tandem) | [![star](https://img.shields.io/badge/star-121-f4b400?style=flat-square)](https://github.com/frumu-ai/tandem) | runtime-authority, approvals, audit | 面向代理的运行时权限治理层，提供作用域执行、工具可见性、权限化记忆、审批门禁与审计轨迹。 |
-| sofagent | [GitHub](https://github.com/KongFangXun/sofagent) | [![star](https://img.shields.io/badge/star-48-f4b400?style=flat-square)](https://github.com/KongFangXun/sofagent) | audit, git-hooks, governance | 面向 AI 编程代理的提交时审计 harness——24 条 git-diff 规则在提交前拦截密钥泄漏、越界改文件与破坏性编辑，附 HMAC 签名审计链与快照回滚。 |
+| sofagent | [GitHub](https://github.com/KongFangXun/sofagent) | [![star](https://img.shields.io/badge/star-48-f4b400?style=flat-square)](https://github.com/KongFangXun/sofagent) | audit, git-hooks, governance | 面向 AI 编程代理的提交时审计 harness——25 条 git-diff 规则在提交前拦截密钥泄漏、越界改文件与破坏性编辑，附 HMAC 签名审计链与快照回滚。 |
 
 <a id="reference-harness-implementations"></a>
 ### Reference Harness Implementations

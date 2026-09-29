@@ -3453,9 +3453,9 @@ entries:
 - name: sofagent
   repo_url: https://github.com/KongFangXun/sofagent
   category: Guardrails, Security & Governance
-  summary_en: Commit-time audit harness for AI coding agents - 24 git-diff rules block secrets, path violations and destructive
+  summary_en: Commit-time audit harness for AI coding agents - 25 git-diff rules block secrets, path violations and destructive
     edits before commit, with HMAC-signed audit trail and snapshot rollback.
-  summary_zh: 面向 AI 编程代理的提交时审计 harness——24 条 git-diff 规则在提交前拦截密钥泄漏、越界改文件与破坏性编辑，附 HMAC 签名审计链与快照回滚。
+  summary_zh: 面向 AI 编程代理的提交时审计 harness——25 条 git-diff 规则在提交前拦截密钥泄漏、越界改文件与破坏性编辑，附 HMAC 签名审计链与快照回滚。
   tags:
   - audit
   - git-hooks
